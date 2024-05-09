@@ -1,4 +1,9 @@
 ## 📝 ENSF 692 - Assignment 1 Tasks
+#### Author : Daniel Ikponmwen
+
+##### ". . . I can do all things through Christ that strengthens me."
+
+
 * Open VSCode and start a new terminal. 
 * Edit this `README` file to add your first and last name, and your favourite inspirational quote.
 * Edit the `assignment1code.py` file by following the instructions in the comments.
